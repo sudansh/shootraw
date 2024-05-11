@@ -1,0 +1,1 @@
+Sample app to shoot a photo and save it to the photo library as JPG
